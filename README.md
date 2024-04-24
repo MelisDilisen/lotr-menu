@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# The Green Dragon Inn - LOTR Menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to The Green Dragon Inn! This React project is an online menu inspired by the culinary delights of J.R.R. Tolkien's Middle-earth. Step into the cozy atmosphere of The Green Dragon Inn and explore a menu filled with hearty dishes crafted with care and a touch of Shire charm.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+Online Menu Display: Explore our digital menu offering a wide range of dishes, each accompanied by detailed descriptions and prices for a delightful browsing experience.
+Real-time Availability: Stay informed about the availability of items with instant updates that mark sold-out items, ensuring accurate information for all users.
+Current Status Indicator: Know whether the cafe is open or closed with a real-time status indicator based on the current hour's standing on opening and closing hours.
+Sleek Design: Immerse yourself in a visually appealing interface designed to enhance user experience and showcase the charm of The Green Dragon Inn.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To run this project locally, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run npm install to install the project dependencies.
+4. Once the installation is complete, run npm start to launch the application.
+5. Open your web browser and go to http://localhost:3000 to view the menu.
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React: JavaScript library for building user interfaces.
+HTML & CSS: Markup and styling for the application.
+JavaScript: Programming language used for interactivity and functionality.
 
-### `npm run build`
+## Contributers
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was created by Melis Dilisen. Contributions are welcome!
