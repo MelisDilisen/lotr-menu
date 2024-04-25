@@ -4,10 +4,10 @@ Welcome to The Green Dragon Inn! This React project is an online menu inspired b
 
 ## Features
 
-Online Menu Display: Explore our digital menu offering a wide range of dishes, each accompanied by detailed descriptions and prices for a delightful browsing experience.
-Real-time Availability: Stay informed about the availability of items with instant updates that mark sold-out items, ensuring accurate information for all users.
-Current Status Indicator: Know whether the cafe is open or closed with a real-time status indicator based on the current hour's standing on opening and closing hours.
-Sleek Design: Immerse yourself in a visually appealing interface designed to enhance user experience and showcase the charm of The Green Dragon Inn.
+- Online Menu Display: Explore our digital menu offering a wide range of dishes, each accompanied by detailed descriptions and prices for a delightful browsing experience.
+- Real-time Availability: Stay informed about the availability of items with instant updates that mark sold-out items, ensuring accurate information for all users.
+- Current Status Indicator: Know whether the cafe is open or closed with a real-time status indicator based on the current hour's standing on opening and closing hours.
+- Sleek Design: Immerse yourself in a visually appealing interface designed to enhance user experience and showcase the charm of The Green Dragon Inn.
 
 ## Getting Started
 
@@ -25,6 +25,6 @@ React: JavaScript library for building user interfaces.
 HTML & CSS: Markup and styling for the application.
 JavaScript: Programming language used for interactivity and functionality.
 
-## Contributers
+## Contributions
 
-This project was created by Melis Dilisen. Contributions are welcome!
+If you found an issue or would like to submit an improvement to this project, all contributions are welcome!
